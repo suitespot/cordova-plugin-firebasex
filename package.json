@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/dpa99c/cordova-plugin-firebase"
   },
-  "name": "cordova-plugin-firebasex",
+  "name": "cordova-plugin-firebase",
   "version": "3.0.8",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
@@ -47,6 +47,6 @@
   },
   "dependencies": {
     "xcode": "^2.0.0",
-    "cordova-lib":"^9.0.0"
+    "cordova-lib": "^9.0.0"
   }
 }
