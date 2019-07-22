@@ -47,6 +47,6 @@
   },
   "dependencies": {
     "xcode": "^2.0.0",
-    "cordova-lib": "^9.0.0"
+    "cordova-lib": ">=8"
   }
 }
